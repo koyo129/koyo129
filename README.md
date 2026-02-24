@@ -1,16 +1,30 @@
-## Hi there 👋
+## Kohyo Miyajima 宮島向陽
 
-<!--
-**koyo129/koyo129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure & Cloud Engineering Enthusiast  
 
-Here are some ideas to get you started:
+Passionate about building reliable and scalable infrastructure systems.  
+Currently focused on cloud architecture, networking, and infrastructure automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technical Focus
+
+- AWS 
+- Terraform
+- Linux
+- Networking 
+
+---
+
+### Featured Project
+
+**AWS Infrastructure Project **  
+Designed and deployed a custom AWS VPC environment including public/private subnets, routing configuration, EC2 instances, and security group management using Terraform.
+
+---
+
+### Currently Improving
+
+- Infrastructure automation and scripting
+- Cloud reliability and scalability design
+- Monitoring and performance troubleshooting

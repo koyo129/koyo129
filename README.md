@@ -1,4 +1,4 @@
-## Kohyo Miyajima 宮島向陽
+## About me
 
 Infrastructure & Cloud Engineering Enthusiast  
 

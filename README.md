@@ -18,7 +18,7 @@ Currently focused on cloud architecture, networking, and infrastructure automati
 
 ### Featured Project
 
-**AWS Infrastructure Project **  
+AWS Infrastructure Project :
 Designed and deployed a custom AWS VPC environment including public/private subnets, routing configuration, EC2 instances, and security group management using Terraform.
 
 ---

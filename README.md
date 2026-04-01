@@ -2,7 +2,7 @@
 
 Infrastructure & Cloud Engineering Enthusiast  
 
-Passionate about building reliable and scalable infrastructure systems.  
+I am half Japanese half Malaysian from a business administration major background. I am passionate about building reliable and scalable infrastructure systems because of these systems play a huge role to supporting technologies today. 
 Currently focused on cloud architecture, networking, and infrastructure automation.
 
 ---

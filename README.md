@@ -12,7 +12,8 @@ Currently focused on cloud architecture, networking, and infrastructure automati
 - AWS 
 - Terraform
 - Linux
-- Networking 
+- CI/CD Pipelines
+- Docker
 
 ---
 

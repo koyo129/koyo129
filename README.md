@@ -1,9 +1,9 @@
 ## About me
 
-Infrastructure & Cloud Engineering Enthusiast  
+I am half Japanese half Malaysian from a business administration major background. I am passionate about solving problems that actually can make an valuable impact to society. 
+Currently focused on cloud architecture, and infrastructure automation.
 
-I am half Japanese half Malaysian from a business administration major background. I am passionate about building reliable and scalable infrastructure systems because of these systems play a huge role to supporting technologies today. 
-Currently focused on cloud architecture, networking, and infrastructure automation.
+I try to think as a proffessional such and aim to improve my skills by putting myself in an environment it challenges me to grow not only as an engineer but as a person.
 
 ---
 
@@ -28,4 +28,4 @@ Designed and deployed a custom AWS VPC environment including public/private subn
 
 - Infrastructure automation and scripting
 - Cloud reliability and scalability design
-- Monitoring and performance troubleshooting
+- Kubernetes knowledge
